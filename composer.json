@@ -1,0 +1,14 @@
+{
+    "name": "composer/composer",
+    "description": "描述一下",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luxing",
+            "email": "1151368955@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
